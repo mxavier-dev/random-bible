@@ -29,7 +29,7 @@ Make sure you have Python installed on your system.
 ### Steps
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/Matheus-de-Freitas-Xavier/random-bible
+git clone https://github.com/mxavier-dev/random-bible
 ```
 
 2. **Navigate to the folder**:
